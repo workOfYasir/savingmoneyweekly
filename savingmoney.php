@@ -7,7 +7,7 @@
 
 <div class="mapdiv-wrapper ">
 
-<div class="col-md-12 col-sm-12 col-xs-12 col-lg-12 " style="background-color: #fff; border-radius:5px; padding-left:35px;padding-right:35px; padding-top:20px" >
+<div class="col-md-12 col-sm-12 col-xs-12 col-lg-12 wrapper " >
 <div class="row" >
 <div class="col-md-12">
 <h1 style="font-weight: 700;">   <span style="color: rgb(39, 52, 70);"> Punjab </span>Program Gives Solar Panels To Middle Class Families At No Cost</h1>
@@ -15,21 +15,21 @@
 </div>
 <hr>
 <div class="row">
-<div class="col-md-12">
-<div class="col-md-6" style="padding-left: 0px; padding-right:0px">
-<div class="col-md-1" style="padding-left: 0px; padding-right:0px">
+<div class="col-md-12 col-sm-12 col-xs-12">
+<div class="col-md-6 col-sm-6 col-xs-7" style="padding-left: 0px; padding-right:0px">
+<div class="col-md-1 col-sm-2 col-xs-2" style="padding-left: 0px; padding-right:0px">
 <img src="./assets/img/profile.png" class="circle img-responsive" style="border-radius: 50%;" alt="">
 </div>
-<div class="col-md-5" style="padding-left: 0px; padding-right:0px">
-<div class="col-md-12" >
+<div class="col-md-5 col-sm-10 col-xs-10" style="padding-left: 0px; padding-right:0px">
+<div class="col-md-12 col-sm-12 col-xs-12" >
 <span style="font-weight: 700; font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif; font-size:14px">SMW Chief Editor</span>
 </div>
-<div class="col-md-12">
+<div class="col-md-12 col-sm-12 col-xs-12">
 <span style="font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif; font-size:14px; color:grey">6/1/21, 11:56 AM</span>
 </div>
 </div>
 </div>
-<div class="col-md-6 text-right">
+<div class="col-md-4 text-right">
  <button class="btn btn-primary"><i class="fab fa-facebook"></i> Share</button>
 </div>
 </div>
@@ -46,7 +46,7 @@
 </div>
 </div>
 <div class="row" style="padding-top: 40px;">
-<div class="col-md-12"  style="font-size: 18px;padding-left:0px;padding-right:0px">
+<div class="col-md-12 thnak-p"  style="font-size: 18px;padding-left:0px;padding-right:0px">
 <p >
 Thanks to a little-known Punjab program called Residential Renewable Energy Tax Credit, middle class homeowners in specific zip codes are getting 
 <strong>$1,000’s in tax credits and rebates to install solar panels usually for $0 out of their own pocket.</strong>
@@ -124,7 +124,7 @@ Step 2: Once you go through this short quiz, you will find out if your area qual
 </div>          
 
 </div>
-<div class="row" style="background-color: #f1f2f6 !important;">
+<div  style="background-color: #f1f2f6 !important;">
 <div class="col-md-12" style="padding-top: 50px;">
 <div class="col-md-12  text-center">
 <p>
