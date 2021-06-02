@@ -10,7 +10,7 @@
 <div class="col-md-12 col-sm-12 col-xs-12 col-lg-12 wrapper " >
 <div class="row" >
 <div class="col-md-12">
-<h1 style="font-weight: 700;">   <span style="color: rgb(39, 52, 70);"> Punjab </span>Program Gives Solar Panels To Middle Class Families At No Cost</h1>
+<h1 style="font-weight: 700; line-height:1.5em">   <span style="color: rgb(39, 52, 70);"> Punjab </span>&nbsp;Program Gives Solar Panels To Middle Class Families At No Cost</h1>
 </div>
 </div>
 <hr>
@@ -117,16 +117,17 @@ Step 2: Once you go through this short quiz, you will find out if your area qual
 </svg>
 </div>
 </div> 
- <div class="row">
-<div class="col-md-12" style="padding-top:20px;padding-bottom:100px ; padding-left:0px;padding-right:0px">
-<button class="btn btn-danger" style="  width:100%;background-color:#db2828"> Enter Your Zip Code And See If You Qualify >>> </button>
+ <div class="">
+<div class="col-md-12" style="padding-top:20px;padding-bottom:180px ; padding-left:0px;padding-right:0px">
+<button class="btn btn-danger button" style=" padding:20px ;width:100%;background-color:#db2828;"> <span class="button-text" style="font-weight: 700; font-size:23px">Enter Your Zip Code And See If You Qualify >>></span> </button>
 </div>
 </div>          
 
 </div>
 <div  style="background-color: #f1f2f6 !important;">
-<div class="col-md-12" style="padding-top: 50px;">
+<div class="col-md-12" style="padding-top: 30px; padding-left:40px; padding-right:40px;">
 <div class="col-md-12  text-center">
+    <div class="mt-5 hidden-md -hidden-sm hidden-lg visible-xs-inline" >&nbsp;</div>
 <p>
 <strong >
 THIS IS AN ADVERTISEMENT AND NOT AN ACTUAL NEWS ARTICLE, BLOG, OR CONSUMER PROTECTION UPDATE
