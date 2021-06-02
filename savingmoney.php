@@ -29,7 +29,7 @@
 </div>
 </div>
 </div>
-<div class="col-md-4 text-right">
+<div class="col-md-6 text-right">
  <button class="btn btn-primary"><i class="fab fa-facebook"></i> Share</button>
 </div>
 </div>
