@@ -119,7 +119,7 @@ Step 2: Once you go through this short quiz, you will find out if your area qual
 </div> 
  <div class="">
 <div class="col-md-12" style="padding-top:20px;padding-bottom:180px ; padding-left:0px;padding-right:0px">
-<button class="btn btn-danger button" style=" padding:20px ;width:100%;background-color:#db2828;"> <span class="button-text" style="font-weight: 700; font-size:23px">Enter Your Zip Code And See If You Qualify >>></span> </button>
+<button class="btn btn-danger button" style=" padding:20px 38px ;width:100%;background-color:#db2828;"> <span class="button-text" style="font-weight: 700; font-size:23px">Enter Your Zip Code And See If You Qualify >>></span> </button>
 </div>
 </div>          
 
