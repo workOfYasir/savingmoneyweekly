@@ -5,6 +5,11 @@
   .body{
     font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
   }
+  a{
+    text-decoration: none;
+    color: rgb(4, 17, 255) !important;
+}
+  
   .wrapper{
     background-color: #fff; 
     border-radius:5px; 
@@ -48,6 +53,9 @@ body{
     padding-top: 30px; 
     padding-left:40px; 
     padding-right:40px;
+}
+a:hover{
+    text-decoration: none;
 }
 @media only screen and (max-width: 750px) and (min-width:200px) {
 .mapdiv-wrapper{
