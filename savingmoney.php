@@ -122,11 +122,11 @@ Step 2: Once you go through this short quiz, you will find out if your area qual
 <button class="btn btn-danger" style="  width:100%;background-color:#db2828"> Enter Your Zip Code And See If You Qualify >>> </button>
 </div>
 </div>          
-</div>
+
 </div>
 <div class="row" style="background-color: #f1f2f6 !important;">
 <div class="col-md-12" style="padding-top: 50px;">
-<div class="col-md-8 col-md-offset-2 text-center">
+<div class="col-md-12  text-center">
 <p>
 <strong >
 THIS IS AN ADVERTISEMENT AND NOT AN ACTUAL NEWS ARTICLE, BLOG, OR CONSUMER PROTECTION UPDATE
@@ -147,7 +147,7 @@ THIS IS AN ADVERTISEMENT AND NOT AN ACTUAL NEWS ARTICLE, BLOG, OR CONSUMER PROTE
 </div>
 </div>
 </div>
-
+</div>
 
 </body>
 </html>
