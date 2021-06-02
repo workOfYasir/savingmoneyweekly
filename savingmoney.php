@@ -1,7 +1,7 @@
 <?php include("./assets/components/header.php");?>
 <div class="content" >
     <div class="col-md-12 text-right" style="background-color: #fff;">
-<button class="btn btn-primary" style="border: none; margin-top:5px; margin-bottom:5px"><i class="fab fa-twitter" style="color: #80bfff;"></i>Share</button>
+<button class="btn btn-primary hidden-sm hidden-md hidden-xs visible-lg-inline" style="border: none; margin-top:5px; margin-bottom:5px"><i class="fab fa-twitter" style="color: #80bfff;"></i>Share</button>
     </div>
 <div class="mt-5" style="background-color:#f1f2f6!important;">&nbsp;</div>
 
@@ -120,7 +120,7 @@ Step 2: Once you go through this short quiz, you will find out if your area qual
 </div> 
  <div class="">
 <div class="col-md-12" style="padding-top:20px;padding-bottom:180px ; padding-left:0px;padding-right:0px">
-<button class="btn btn-danger button" style=" padding:20px 38px ;width:100%;background-color:#db2828;"> <span class="button-text" style="font-weight: 700; font-size:23px">Enter Your Zip Code And See If You Qualify >>></span> </button>
+<button class="btn btn-danger button" > <span class="button-text" >Enter Your Zip Code And See If You Qualify >>></span> </button>
 </div>
 </div>          
 
