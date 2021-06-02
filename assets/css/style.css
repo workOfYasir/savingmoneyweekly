@@ -38,11 +38,11 @@ body{
     margin-right: 200px;
 }
 .mapdiv path{
-    fill:rgb(4, 17, 255);
-    transition: fill 0.1s;
+    fill:rgb(4, 17, 255) !important;
+    transition: fill 0.1s !important;
 }
 .mapdiv :hover{
-    fill:rgb(211, 161, 50);
+    fill:rgb(211, 161, 50) !important;
 }
 
 @media only screen and (max-width: 750px) and (min-width:200px) {
@@ -52,6 +52,13 @@ body{
     padding-left: 10px !important;
     padding-right: 10px !important;
     
+}
+.mapdiv path{
+    fill:rgb(4, 17, 255) !important;
+    transition: fill 0.1s !important;
+}
+.mapdiv :hover{
+    fill:rgb(211, 161, 50) !important;
 }
 .wrapper{
     background-color: #fff; 
@@ -86,6 +93,13 @@ padding-right: 15px !important;
         background-color:rgb(37, 42, 59);
         padding-bottom: 5px;
     
+    }
+    .mapdiv path{
+        fill:rgb(4, 17, 255) !important;
+        transition: fill 0.1s !important;
+    }
+    .mapdiv :hover{
+        fill:rgb(211, 161, 50) !important;
     }
     }
     /* @media only screen and (min-screen:1200px) { */
