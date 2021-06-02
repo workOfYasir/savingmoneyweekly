@@ -125,7 +125,7 @@ Step 2: Once you go through this short quiz, you will find out if your area qual
 
 </div>
 <div  style="background-color: #f1f2f6 !important;">
-<div class="col-md-12" style="padding-top: 30px; padding-left:40px; padding-right:40px;">
+<div class="col-md-12 footer-text">
 <div class="col-md-12  text-center">
     <div class="mt-5 hidden-md -hidden-sm hidden-lg visible-xs-inline" >&nbsp;</div>
 <p>

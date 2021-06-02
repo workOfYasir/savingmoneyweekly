@@ -44,7 +44,11 @@ body{
 .mapdiv :hover{
     fill:rgb(211, 161, 50) !important;
 }
-
+.footer-text{
+    padding-top: 30px; 
+    padding-left:40px; 
+    padding-right:40px;
+}
 @media only screen and (max-width: 750px) and (min-width:200px) {
 .mapdiv-wrapper{
     margin-left: 0px !important;
@@ -53,6 +57,12 @@ body{
     padding-right: 0px !important;
     
 }
+.footer-text{
+    padding-top: 30px !important;
+    padding-left:10px !important;
+    padding-right:10px !important;
+}
+
 a{
     text-decoration: none;
     color: rgb(4, 17, 255) !important;
@@ -74,8 +84,8 @@ a{
 .wrapper{
     background-color: #fff; 
     border-radius:5px; 
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
     padding-top:20px
   }
   .thnak-p{
@@ -100,7 +110,7 @@ padding-right: 15px !important;
         margin-left: 20px !important;
         margin-right: 20px!important;
     }
-   
+  
     .nav{
         background-color:rgb(37, 42, 59);
         padding-bottom: 5px;
