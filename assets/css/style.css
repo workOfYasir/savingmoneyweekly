@@ -17,6 +17,9 @@ body{
     font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
     background-color: #f1f2f6!important;
 }
+.content{
+    background-color:  #f1f2f6!important;
+}
 
 .nav{
     background-color:rgb(37, 42, 59);
