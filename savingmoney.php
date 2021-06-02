@@ -124,7 +124,7 @@ Step 2: Once you go through this short quiz, you will find out if your area qual
 </div>          
 </div>
 </div>
-<div class="row">
+<div class="row" style="background-color: #f1f2f6 !important;">
 <div class="col-md-12" style="padding-top: 50px;">
 <div class="col-md-8 col-md-offset-2 text-center">
 <p>
