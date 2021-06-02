@@ -65,11 +65,11 @@ Thanks to a little-known Punjab program called Residential Renewable Energy Tax 
 <p style="font-size: 18px; line-height:2.0; ">
 <strong>How Do I Find Out if I Qualify?</strong>
 <br>
-Step 1: <strong>Click your state on the map to instantly check your eligibility for free >>></strong>
+Step 1: <a href=""> <strong>Click your state on the map to instantly check your eligibility for free >>></strong></a>
 <br>
 Step 2: Once you go through this short quiz, you will find out if your area qualifies and how much you will save. Many families save thousands of dollars per year simply by going solar and see a sizable increase in property value. 
 
-<strong>Select Your Location below >>></strong>
+<a href=""><strong>Select Your Location below >>></strong></a>
 </p>
 </div>
 </div>
@@ -139,9 +139,9 @@ THIS IS AN ADVERTISEMENT AND NOT AN ACTUAL NEWS ARTICLE, BLOG, OR CONSUMER PROTE
 </div>
 
 <div class="col-md-12 text-center" style="padding-top: 10px;">
-<a href="#">Privacy Policy</a>&nbsp;&nbsp;&nbsp;
-<a href="#">Terms of Use</a>&nbsp;&nbsp;&nbsp;
-<a href="#">Contact Us</a>
+<a href="#" ><strong>Privacy Policy</strong></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><strong>Terms of Use</strong></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><strong>Contact Us</strong></a>
 </div>
 <div class="col-md-12 text-center" style="font-size:14px; padding-top:10px">
 <strong>© Saving Money Weekly 2020. All Rights Reserved.</strong>
