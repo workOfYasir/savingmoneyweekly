@@ -1,13 +1,13 @@
 ::-moz-selection { /* Code for Firefox */
     color: rgba(0,0,0,.87);;
-    background: #cce2ff;;
+    background: #cce2ff;
   }
   .body{
     font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
   }
   ::selection {
-    color: rgba(0,0,0,.87);;
-    background: #cce2ff;;
+    color: rgba(0,0,0,.87);
+    background: #cce2ff;
   }
 .mapdiv{
     width: 100%;
