@@ -34,7 +34,7 @@ body{
 }
 
 .nav{
-    background-color:rgb(37, 42, 59);
+    background-color:rgb(37, 42, 59 ) !important;
     padding-bottom: 20px;
 
 }
