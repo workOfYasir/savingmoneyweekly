@@ -133,7 +133,17 @@ padding-right: 15px !important;
         margin-left: 20px !important;
         margin-right: 20px!important;
     }
-  
+    .button{
+        white-space: normal !important;
+        padding:20px 38px !important ;
+        width:100% !important;
+        background-color:#db2828 !important;
+    }
+    .button-text{
+        white-space: normal !important;
+        font-weight: 700 !important; 
+        font-size:23px !important;
+    }
     .nav{
         background-color:rgb(37, 42, 59) !important;
         padding-bottom: 5px;
