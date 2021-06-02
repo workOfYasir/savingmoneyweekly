@@ -22,7 +22,7 @@
 <div class="container-fluid">
 
     <div class="row">
-<div class="col-md-12  col-sm-12 col-xs-12 nav">
+<div class="col-md-12  col-sm-12 col-xs-12 nav" style="    background-color:rgb(37, 42, 59 ) !important;">
 <div class="row" style="margin-top: 2px; margin-bottom:2px">
         <div class="col-md-12 col-sm-12 col-xs-12 text-center">
 <span style="font-size:12px; font-weight:700; color:black;">ADVERTORIAL</span>

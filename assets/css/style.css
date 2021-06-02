@@ -102,7 +102,7 @@ padding-left: 15px !important;
 padding-right: 15px !important;
   }
 .nav{
-    background-color:rgb(37, 42, 59);
+    background-color:rgb(37, 42, 59) !important;
     padding-bottom: 5px;
 
 }
@@ -121,7 +121,7 @@ padding-right: 15px !important;
     }
   
     .nav{
-        background-color:rgb(37, 42, 59);
+        background-color:rgb(37, 42, 59) !important;
         padding-bottom: 5px;
     
     }

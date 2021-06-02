@@ -10,7 +10,8 @@
 <div class="col-md-12 col-sm-12 col-xs-12 col-lg-12 wrapper " >
 <div class="row" >
 <div class="col-md-12">
-<h1 style="font-weight: 700; line-height:1.5em">   <span style="color: rgb(39, 52, 70);"> Punjab </span>&nbsp;Program Gives Solar Panels To Middle Class Families At No Cost</h1>
+<h1 style="font-weight: 700; line-height:1.5em">   
+<span style="color: rgb(39, 52, 70);"> Punjab </span>&nbsp;Program Gives Solar Panels To Middle Class Families At No Cost</h1>
 </div>
 </div>
 <hr>
