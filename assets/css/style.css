@@ -2,7 +2,9 @@
     color: rgba(0,0,0,.87);;
     background: #cce2ff;;
   }
-  
+  .body{
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+  }
   ::selection {
     color: rgba(0,0,0,.87);;
     background: #cce2ff;;
@@ -32,9 +34,7 @@ body{
 .mapdiv :hover{
     fill:rgb(211, 161, 50);
 }
-.content{
-    background-color: #cce2ff;
-}
+
 @media only screen and (max-width: 750px) and (min-width:200px) {
 .mapdiv-wrapper{
     margin-left: 0px !important;

@@ -7,9 +7,73 @@
 
 <div class="mapdiv-wrapper ">
 
-    <div class="col-md-12 col-sm-12 col-xs-12 col-lg-12 " style="background-color: #fff; border-radius:5px" >
-        <div class="col-md-8 col-sm-offset-2 col-sm-8 col-md-offset-2 col-xs-8 col-xs-offset-2 col-lg-8 col-lg-offset-2 " >
+<div class="col-md-12 col-sm-12 col-xs-12 col-lg-12 " style="background-color: #fff; border-radius:5px; padding-left:35px;padding-right:35px; padding-top:20px" >
+<div class="row" >
+<div class="col-md-12">
+<h1 style="font-weight: 700;">   <span style="color: rgb(39, 52, 70);"> Punjab </span>Program Gives Solar Panels To Middle Class Families At No Cost</h1>
+</div>
+</div>
+<hr>
+<div class="row">
+<div class="col-md-12">
+<div class="col-md-6" style="padding-left: 0px; padding-right:0px">
+<div class="col-md-1" style="padding-left: 0px; padding-right:0px">
+<img src="./assets/img/profile.png" class="circle img-responsive" style="border-radius: 50%;" alt="">
+</div>
+<div class="col-md-5" style="padding-left: 0px; padding-right:0px">
+<div class="col-md-12" >
+<span style="font-weight: 700; font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif; font-size:14px">SMW Chief Editor</span>
+</div>
+<div class="col-md-12">
+<span style="font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif; font-size:14px; color:grey">6/1/21, 11:56 AM</span>
+</div>
+</div>
+</div>
+<div class="col-md-6 text-right">
+ <button class="btn btn-primary"><i class="fab fa-facebook"></i> Share</button>
+</div>
+</div>
+</div>
+<hr>
+<div class="col-md-12">
+<p style="font-size: 18px;">
+<strong style="font-size: 24px;">If your zip code qualifies,</strong> the Residential Renewable Energy Tax Credit will pay you to go solar!</p>
+</div>
+<div class="mt-5">&nbsp;</div>
+<div class="row" style="margin-top: 5px;">
+<div class="col-md-12">
+<img src="./assets/img/banner.jpg" class="img-responsive" alt="banner">
+</div>
+</div>
+<div class="row" style="padding-top: 40px;">
+<div class="col-md-12"  style="font-size: 18px;padding-left:0px;padding-right:0px">
+<p >
+Thanks to a little-known Punjab program called Residential Renewable Energy Tax Credit, middle class homeowners in specific zip codes are getting 
+<strong>$1,000’s in tax credits and rebates to install solar panels usually for $0 out of their own pocket.</strong>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="col-md-8 col-md-offset-2">
+<img src="./assets/img/bill.jpg" class="img-responsive" alt="bills">
+</div>
+</div>
+</div>
+<div class="row" style="padding-top: 20px;padding-bottom: 40px;">
+<div class="col-md-12">
+<p style="font-size: 18px; line-height:2.0; ">
+<strong>How Do I Find Out if I Qualify?</strong>
+<br>
+Step 1: <strong>Click your state on the map to instantly check your eligibility for free >>></strong>
+<br>
+Step 2: Once you go through this short quiz, you will find out if your area qualifies and how much you will save. Many families save thousands of dollars per year simply by going solar and see a sizable increase in property value. 
 
+<strong>Select Your Location below >>></strong>
+</p>
+</div>
+</div>
+<div class="col-md-8 col-sm-offset-2 col-sm-8 col-md-offset-2 col-xs-8 col-xs-offset-2 col-lg-8 col-lg-offset-2 " >
 <div class="mapdiv text-center">
 <svg baseprofile="tiny" fill="#7c7c7c"  stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" version="1.2" viewbox="0 0 1000 1360" >
  <a xlink:title="" xlink:href=""><path d="M391.5 624.8l-1.8 3.1-0.7 0.8-7.8 2.6-0.9 0.5-0.5 0.4 0.1 0.3 0.6 0.6 1.4 0.9 0.3 0.4-0.1 0.8-0.4 1.1-0.4 1.3-0.3 1-0.1 0.5-0.3 1.1-0.5 1.3-0.5 0.8-0.5 0.7-1.2 0.9-0.5 0.8-0.4 0.8-0.5 1.3-0.3 0.6-0.4 0.4-1.4 0.9-1.4 1.2-0.8 0.6-1.2 0.4-2.1 1.3-0.9 1-0.5 1.2-0.1 0.9 0 0.9-0.1 0.6-0.4 1.4-0.5 0.4-1.2-0.3-0.6 0.2-3.8 3.1-0.5 0.1-0.9 0-4-0.8-2.1-1.7-0.5-0.8-0.1-0.5 0.2-1.7 0.1-0.6-0.2-1.7-0.7-1-0.4-0.4-0.4-0.2-0.8 0.1-1.5-0.8-2.2-1.6-0.9-0.5-0.7-0.2-1.7 0.9-4.5 1.2-5.6 2.9-0.4 0.4-0.4 0.8-0.1 0.8 0 0.4 0.2 0.7 1 1.3 0.4 0.9 0.1 0.8 0.3 2-0.1 1.6 0.1 0.7 0.4 0.2 2.3 0.4 0.6 0.4 0.3 0.5 0 0.7-0.3 0.7-0.5 1.5-0.4 0.5-0.4 0.3-4.5 0.2-1.1 0.5-2.8 2.1-0.8 0.1-2.3-0.7-0.5-0.3-1.1-0.2-0.6 0-1.4 0.2-2.6 0.9-2.3 0.3-1.8-0.1-0.8 0.2-2.5 1.2-2.1 0.5-0.6 0.5 0 0.3-0.7 1.1-1.2 0.7-0.9 0.8-0.3 1.2-0.3 0.4-3.6 3.7-2.3 3-0.6 1.1-1.1 2.4-0.3 1 0.1 0.5 0.4 0.4 0.4 0.5 0.7 0.4 0.4 0.4 0.2 0.5 0.2 1.2 0.2 0.5 0.4 0.4 0.5 0.3 1 0.1 0.5 0 0.6-0.3 0.3-0.3 0.6-1.1 0.5-0.5 0.5-0.2 2.2-0.2 2.3-0.6 2.4-1.8 0.5-0.2 0.5-0.1 0.4 0.2 0.2 0.2 0.1 0.5 0 0.3-0.4 1.1 0 0.5 1 0.5 0.3 0.4 0.5 2.2 0.2 0.9 0.6 2.9 0.1 0.8 0.7 3.5 0.1 1.1 0 1.1-0.2 0.9-3.5 3.9-2.2 3-0.2 0.4-0.1 0.5 0.2 0.4 0.9 1.6 0.2 0.4 0 0.9-0.1 0.4-0.2 0.3-2.8 1.5-1.4 1.2-0.3 0.1-0.5 0-3.4-0.9-11.2 0.1-0.4 1.4 0.4 0.8 0.4 0.7 0.8 1.5 0.2 0.8 0.1 0.5-0.2 0.7-0.1 1 0.1 1.1 0.7 2.4 0.2 1 0 0.6-0.7 1.3-1.2 1.4-0.4 1-0.4 1-0.6 1.1-0.2 0.7-0.3 0.5-0.5 0.3-0.9 0.2-0.7 0.8-1.3 3.1-1 1.9-0.1 1.3 0 2.7-0.2 0.7-0.3 0.4-0.3 0-1.2-0.3-0.6 0-1.9 1.3-2.9 2.8-0.4 0.6 0.1 0.9 0 0.8-0.3 0.7-2.2 1.8-0.6 0.3-0.5 0.2-1.5 0.1-1.5 0.2-1.8-0.3-0.6-0.5-1-2.2-0.3-0.4-0.4-0.2-1.3 0.1-0.7 0.4-1.4 1.7-4.7 4.2-0.6 1.1-0.3 0.3-2.1 1.5-0.3 0.5-0.8 2.2-5.2 4.5-0.6 0.7-0.1 0.7 0.2 0.5 0.7 0.4 0.1 0.5 0 0.7 0.3 0.4 2.4 1.9 0.5 0.5 0.3 0.5 0.1 0.6-0.6 4.5-0.3 1.4-0.3 0.4-0.3 0.3-1.1 0.2-0.8 0.8-1 2.4-3.1-1.9-1.2-0.3-0.6 0-2.7 1.3-0.6 0.1-0.3-0.4-0.2-1.3-0.3-0.9-0.2-0.6-1.8-3.2-4.6-6-1.1-2.2-0.1-0.7 0.1-1.3 0.3-1.6 0-1.5-0.2-1.3-0.6-2.8-0.4-1.1-0.3-0.6-0.3-0.1-0.6 0.1-1.4 0.7-0.7 0.1-0.9-0.5-1.2-1-3.3-3.7-0.8-0.8-2.9-1-1-0.6-0.4-0.4-0.2-0.6 0.3-1.5 0.2-0.7 0.3-0.7 0.5-1.6 0.4-2.5-6.4-1.7-1.4 0.4-3.4 3.3-0.2 0.8-0.1 1.1 0.4 4.3 0.1 0.8 0.4 1 0.4 0.3 0.2 0.6 0.2 0.8 0.1 1.9-0.1 0.8-0.3 0.5-0.4 0-2.5-1-0.7 0.4-1.7 2.1-0.6 0.5-4.1 2.5 2 2.1 0.5 1 0.1 0.8 0 1-0.3 0.8-0.3 0.2-0.5 0.2-0.3 0-0.4-0.4-0.3-0.5-0.6 0.5-1 1.8-0.3 0.4-0.4 0.2-3.4 1.3-1.1 0.6-0.4 0.5-0.4 0.6-0.4 1.3-0.4 0.5-0.4 0.3-1.9-0.4-1.1 0.1-0.9 0.4-3.4 2.1-9.1 2.5-4.1-0.3-2.6 0.7-0.7 0.9 0 0.2 0.4 0.6 0 0.4-0.1 1.3 0 0.6 0.1 1.3-0.1 0.8-0.7 1.1-0.2 0.8-0.2 0.7 0.1 1-0.1 0.5-0.2 0.3-2.9 2.2-0.5 0.2-5 1.5-1.3 0.2-6.1-0.4-0.4-0.5-0.1-0.6-0.3-0.7-0.3-0.4-0.8-0.4-0.7-0.2-0.3 0-0.3 0.2-0.3 0.9-0.9 2.1-0.8 0.3-2.6 2.8-1.2 0.3-2.3-0.9-0.5 0.1-0.3 0.2-0.2 0.7-0.3 0.7-0.6 0.9-0.7 0.4-0.5 0.1-0.4 0-1.7-1-1.4-0.1-1.1 0.4-5.7 4.1-3 1.2-2 0.2-0.9 0.3-0.6 0.3-0.3 0.5-0.2 0.5-0.7 1.3-1.6 2-2.6 0.8-0.5 0.6 0.1 0.8 0.2 0.7 0.1 1.2 0.1 1.6-0.2 3.4-0.8 1.5-0.8 1-1 0.2-0.5 0-0.7-0.1-0.7-0.3-0.7-0.4-0.7-0.6-0.6-1.1-0.7-1.3-0.1-0.5-0.7-0.1-4.1 1.6-1.8 1.1 0 0.3 0.1 0.8 0.1 0.7-0.1 1-0.6 1.5-0.3 0.9 0 0.6 0.1 0.3 0.3 0.3 1.5 0.6 0.6 0.6 0.3 0.8-0.1 2 0.2 1.6 0.2 1.3 0.3 0.7 0.2 0.6 1 1.5 0.3 0.6 0.2 0.6 0.2 1-0.2 0.7-0.2 0.5-0.3 0.2-2.7 0.5-5.7 1.9-1.8-0.4-1.4-1.7-0.7-0.7-1.2-0.8-0.9 0.1-0.6 0.5-0.8 0.7-1.6 0.8-1.1 0-0.6-0.1-0.2-0.4 0.2-0.4 0.6-1.2-0.3-0.6-0.7-0.6-1.9-1-0.9-0.3-0.5-0.1-0.8 0.5-0.6 0.2-4.4 0.7-0.5 0.2-0.2 0.2-4.9 3.6-1.8 0.7-0.7 0.2-0.4-0.3-0.4-1.9-0.3-0.5-0.4-0.5-1.8-0.9-0.6-0.6-0.3-0.4-0.1-0.4-0.5-0.9-0.8-0.7-0.5-0.2-0.5 0.1-0.5 0.5-0.2 0.4 0.1 0.9 3.5 5.7 0.3 0.6-0.1 0.5-0.6 0.5-2.4 1.1-2.7 0-0.1-1.1-3.8-6.6-0.1-2 0.7-2.3 0.8-4 0.1-2.8-0.4-0.6-0.8-0.2-1-1.5-0.5-1.8-0.4-1.5 0.3-1.4 1.2-1.2-2-0.1-4.7-1.1-1.6-0.8-0.5-0.3-0.5 0.3-3.7 1.2-1.1-0.1-0.9-0.7-0.9-1.9-0.9-0.8 0.9-1.5-1.3-0.1-0.9-0.4-0.1-0.8 0.9-1.3-1.9-2.3 2-3.1 3.5-2.9 2.4-1.5 0-0.6 1.2-1.5 0.8-1.5-0.2-1-7.6-0.2-2.2-1.2-1.3-2.5 1.5-0.9-6.6-10.2-2.1-2.1-1.8-0.1-4.3 1.2-1.5-0.2-0.4-1.4 0.4-1.9-0.1-1.6-1.8-1-0.1-0.3 0-0.6 0.2-0.3 0.2-2.3-0.7-1-1.1-0.8-0.8-1.4-0.4-2.2 1.6 0.4 1.6-1.5 0.5-2-0.2-1.6-0.1-1.5 1-1.7 1.5-0.9 2.4 0.2 1.2-1.4 0.7-1.8 0-1.4-0.9-3.5 0.2-1.2 0.6-0.9 0.2-0.7-3.6-1.2-2.5-1.7-0.9-0.9-0.2-1.3-0.2-2.5 0.4-1.5 0.7-1.4-0.2-0.9-3.9 0.4-2.9-0.9-1.5-0.2-1.5 0.4-2.8 1.4-1.5 0.3-0.1-4.4-1.7-4.9-0.6-4.1 3-1.6 1.6 0.9 1.2 1.6 1.5 1.4 2-0.2 1.3-1.5 2.1-4.4 1.5-1.7 10.1-7.9 6.2-3.4 1.6-2.2-2.3-2.1 2.5-2.1 0.9-0.5-2.5-0.8-5.5 3.7-2.5-1.4-0.8-3.2 0.3-3.9 0.9-3.5 1.2-1.9 2.3-2.8 5.5-10.3 1.2-1.1 2.7-2 1.1-1.5 0.6-2.2 0.3-3.8 0.7-1.5-1.7-2 0.2-3.2 0.8-3.7 0.4-3.5-0.5-3.2-0.8-5.7-4.4-5.1-7.2-10-0.5-2.2 0.6-2.5 1.3-3.9-7.4-3.2-2.5-3.2 1.4-5-1-1.1-2.5-1.9-1.2-0.6-3.2 0.1-1.1-0.4 0.1-1.9 2.5-2.4 0.1-3.6-1.4-3.4-2.5-1.9 0.4-1.6 1.8-1.3 4.4-0.8 2.2-0.9 2.2-1.7 1.6-0.8 4.4-1.2 3.5 1 4.3 1.1-1.4-2.4-4.1-4.2-1.3-1.1 3.7-2 3.5 1.7 3.5 2.8 3.7 1.5 3.4-0.7 0.9 0.1 0.7 0.8 1.2 2.1 0.5 0.6 4.2 0.7 1.8 1 0.3 2.8 4.1-1.2 0.4-1.7-0.9-4 7 2 2.2 0 1.8-0.8 5.4-4.1 10.8-3.7 9.7-0.3 2.9-1.6 2.5-3.1 2.5-4.5 0.9-1 0.8-0.1 0.6-0.6 0.1-2.1-0.3-1.2-0.5-0.9-2.9-3-7.1-4-2.3-0.7-1.8-1.2-0.2-2.7 0.8-1.8 0.9-0.5 1.2-0.1 1.3-0.6 0.9-1.2 0.8-2.2 0.6-1 1.9-1.9 1.7-1 7.1-0.8 1.3-1.3 2.4-4.9 2.2-2.2 4.6-2.1 2.2-1.9 2.6-4.2 1.1-1.4 4.9-2.9 0.3-0.9-0.3-0.6 2.9 0.2 4.5-1.9 1.5-1.2 0.8-0.8 0.6-0.5 15-0.7 4.5-1 5.2-3.6 1.6-1.5 0.6-0.3 0.4-0.3 2.8-0.6 1.2-0.6 0.8-0.6 5.6-5.7 5-4.3 0.6-0.3 1.5-0.3 0.7 0 2.1 0.4 0.3-0.1 0.5-0.6 0.5-0.9 0.3-0.3 0.3-0.2 0.5-1.3 0.7-2.6 0.4-0.9 0.5-0.7 0.7-0.3 0.1-0.3-0.2-0.4-0.8-1-0.8-0.4-0.3-1-0.2-0.6 1.3-5.7 0.6-0.8 0.2-0.3 0.5-0.2 0.4 0 7.8 2.4 0.8 0.7 0.4 0.9 0.3 1 0.9 6.1 0.3 0.6 0.4 0.5 2.7 1 7.4 4.6 0.3 0.4 1.2 1.5 0.7 0.3 0.7 0.1 7.2-2.8 0.5 0 0.7 0.3 0.5 1 1 1.2 1 0.9 1.4 2.1 2.1 3.8 1 1.6 0.3 0.5 0.1 0.5-0.4 0.3-0.4 0.2-3.3 0.5-0.5 0.2-0.2 0.4-0.1 0.5 0.3 1.1 0.3 0.9 0.7 1 0.6 1.1 0 0.5-0.2 0.5-0.7 1-2 2.1-0.4 0.6 0 0.6 0.3 0.8 0.6 1.2 0.1 0.5 0 0.5-0.2 0.7-0.7 1.1-1.4 1.6-0.4 0.6 0 0.5 0.3 0.8 0.5 0.4 0.8 0.3 1 0.1 1.1 0.2 0.3 0.8 0.2 1.1 0.4 0.5 0.5 0.3 1.4 0 2-0.4 1.3 0.1 2 0.7 0.5 0.3 0.4 0.3 0 0.7-0.4 1.1-1.1 2.3-0.7 2.2 0 0.9-0.3 1-0.4 0.8-1.2 0.3-1.4 0.1-2.1 0.4-2.7 1.3-1.9 1.5-1.3 1.4-0.2 1 1 2 0.4 1.1 0.9 2.9 0.3 0.2 0.5 0.3 3.1 1 1.8 1.1 0.5 0.5 0.5 0 0.6-0.4 4.7-4.5 1.7-0.9 3.9-0.7 4 1.5 7.6-2.9 2-1.2 1.3-1.2 0.7-1.2 1.9-2.3 3.5-3.1 13.8 4 0.7-0.2 0.6-0.4 0.2-0.2 0.3-0.6 0.9-2.6 0.3-0.8 0.5-0.5 4.4-2.8 1-0.9 0.6-0.6 0.6-0.9 0.6-1.1 0.5-1.2 0.2-0.7-0.1-0.4-1.2-1-2.3-1.6-0.2-0.1-0.3-1.7-0.2-6.4 0.2-6.5-0.1-3.1-0.4-3.1-0.7-3-1-2.8-0.6-1.3-0.8-1-3.2-2.3-7-3.3-0.8-1.2-0.6-0.9-2.2-7.3 2.5 0.9 2.5 0 0.4 0.1 0.8 0.4 1 0.3 6.1-0.8 1.9-0.9 0.8-0.7 0.4-0.6 0.2-0.6 0.9-4.4 0.2-0.6 0.2-0.3 0.7-0.6 1-0.6 1.2-1 0.5-0.5 2.2-0.3 5.4 0.1 1.7-0.3 5.4-2.7 1.2 0 1.8 0.8 0.9 0.9 0.9 0.7 3 5.5 0.3 1.6 0.1 1.1 0 0.7-0.3 1.7 0 0.8 0 0.8 0.2 0.6 0.4 0.8 0.1 0.5-0.1 0.6-0.3 1.9-0.1 1 0.1 0.9 0.2 1.1 0.4 0.7 1.2 0.3 11.2 1.2 3.5-0.4 3.2-1.2 0.7-0.4 7.3-1.6 0.5-0.8 0.3-0.5 1.6-5.1 1.1-2.4 0.6-0.8 2.9-3 6-3.2 0.5-0.2 0.6 0.2 0.6 0.3 1.5 2.3 0.6 0.5 0.4 0.3 0.4 0.1 0.9 0.2 0.3 0.3 0 0.6-0.5 1.3-0.4 0.7-0.6 0.5-1 0.8-0.3 0.3 0.2 1.7 1.9 6-3.5 5.8-1.9 4.2-0.5 0.6-1.2 0.5-0.6 0.3-0.9 0.8-0.9 0.1-2.5-0.3-0.6 0.1-0.5 0.2-0.4 0.5-0.3 0.7-0.7 1.8-0.2 1.2-0.4 4.9-0.2 1.6-0.3 1-0.2 0.6 0 0.4 0 0.6 0.4 0.8 0.3 0.3 0.4 0.3 2 0.5 3.6 1.7 2.4 0.5 0.7 0.4-0.3 0.4-2.3 1.7-0.8 0.7-0.3 0.9 0 0.5 0.4 1 0.4 1 0.2 1.5-0.2 0.4-0.5 0.2-2.4-0.2-3.4 1 0.7 1.8 1 2.4 0.2 0.6 0.2 0.9 0 1.2-0.2 0.4-0.5 0.8-0.4 1-0.1 0.5 0.2 0.2 0.6-0.1 1.3-0.4 1.6-0.2 1.4 0.1 2.2-0.3 7.8 1.1 0.8 0.5 0.4 0.6-0.1 0.8-0.6 1.5 0.1 0.9 0.9 1 3 1.3 1.3 1.7 0.1 1.1 0 0.7-0.1 0.5-1.2 2.1-0.1 0.6 0.1 0.6 0.9 2.9 1.3 3.1 0.1 0.5-0.2 1-0.4 0.9-0.3 0.4-0.6 0.5-0.7 0.4-0.2 0.5 0 0.8-0.2 0.5-0.4 0.4 0.5 0.5 1 0.7 2.7 1.4 1 0.2 0.5-0.2 0-0.3 0.1-0.5 0.4-0.7 0.6-0.5 0.5-0.1 1 0 4.2 1.9 0.1 0.4-0.1 1-1.2 4.8-0.6 1.1-0.5 0.5-0.8 0.8-0.2 0.3 0.2 0.2 0.6 0 2.8-0.5 1.5 0.1 2.5 1.3 0.6 0.9 0.4 0.9 0.2 0.9 0.2 1.3-0.2 2-1.6 4.6 1.1 0.2 1.1-0.2 2-0.9 0.6-0.1 4.8 0.2 2.5-0.4 1.1-0.4 0.7-0.4 0.6-0.2 0.3 0.2 0.4 0.3-0.3 1.1-0.3 0.6-0.5 1-1.1 1.3-0.1 0.4 0 0.4 0.4 0.6 0.6 0 0.9 0.3 0.3 0.3 0.1 0.5-0.8 0.8-0.1 0.6-0.1 0.8 0.1 1.9-0.1 1.4-0.7 2.2-1 2.6-0.3 0.5-0.6 0.8-0.6 0.6-1.5 0.8-0.4 0.5-0.3 1.2-0.4 0.9-0.7 0.8-0.2 0.3-0.1 0.8 0 1 0 1.1 0.3 2.1 0.1 0.9 0 0.5-0.6 0.8-0.1 0.6 0.1 0.8 0.2 1.3-0.1 0.6-0.3 0.4-0.7 0.5-0.3 0.3-0.2 0.4-0.2 0.6-0.1 0.9 0 1 0.1 0.6 0.3 0.9 0.3 0.3 1.6 0.1 5.1-1.6z" id="DEU1572" name="Nordrhein-Westfalen">
@@ -52,9 +116,38 @@
  </circle>
 </svg>
 </div>
-</div>            
+</div> 
+ <div class="row">
+<div class="col-md-12" style="padding-top:20px;padding-bottom:100px ; padding-left:0px;padding-right:0px">
+<button class="btn btn-danger" style="  width:100%;background-color:#db2828"> Enter Your Zip Code And See If You Qualify >>> </button>
+</div>
+</div>          
+</div>
+</div>
+<div class="row">
+<div class="col-md-12" style="padding-top: 50px;">
+<div class="col-md-8 col-md-offset-2 text-center">
+<p>
+<strong >
+THIS IS AN ADVERTISEMENT AND NOT AN ACTUAL NEWS ARTICLE, BLOG, OR CONSUMER PROTECTION UPDATE
+</strong>
+<br><br>
+*We are dedicated to bringing readers valuable information which can help them accomplish their financial and lifestyle goals. Our disclaimer is that this site does receive compensation for product reviews and referrals or purchases made through our links. This page is an advertisement/advertorial. The story depicted here is for demonstration purposes only and everyone's results may vary. We hope you find our online resource informative and helpful. This site is in no way affiliated with any news source. This site contains affiliate and partner links. This website and the company that owns it is not responsible for any typographical or photographic errors. If you do not agree to our terms and policies, then please leave this site immediately. All trademarks, logos, and service marks (collectively the "Trademarks") displayed are registered and/or unregistered Trademarks of their respective owners. Contents of this website are copyrighted property of the reviewer and/or this website.
+</p>
+</div>
+</div>
+
+<div class="col-md-12 text-center" style="padding-top: 10px;">
+<a href="#">Privacy Policy</a>&nbsp;&nbsp;&nbsp;
+<a href="#">Terms of Use</a>&nbsp;&nbsp;&nbsp;
+<a href="#">Contact Us</a>
+</div>
+<div class="col-md-12 text-center" style="font-size:14px; padding-top:10px">
+<strong>© Saving Money Weekly 2020. All Rights Reserved.</strong>
 </div>
 </div>
 </div>
+
+
 </body>
 </html>
