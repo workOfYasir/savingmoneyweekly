@@ -5,7 +5,7 @@
   .body{
     font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
   }
-  a{
+  .a-tag{
     text-decoration: none;
     color: rgb(4, 17, 255) !important;
 }
@@ -54,7 +54,7 @@ body{
     padding-left:40px; 
     padding-right:40px;
 }
-a:hover{
+.a-tag:hover{
     text-decoration: none;
 }
 .button{
@@ -67,6 +67,12 @@ a:hover{
     white-space: normal !important;
     font-weight: 700 !important; 
     font-size:23px !important;
+}
+.btn-wrapper{
+    padding-top:20px !important;
+    padding-bottom:180px !important;
+    padding-left:0px !important;
+    padding-right:0px !important;
 }
 @media only screen and (max-width: 750px) and (min-width:200px) {
 .mapdiv-wrapper{
@@ -76,26 +82,32 @@ a:hover{
     padding-right: 0px !important;
     
 }
+.btn-wrapper{
+    padding-top:20px !important;
+    padding-bottom:80px !important;
+    padding-left:0px !important;
+    padding-right:0px !important;
+}
 .footer-text{
     padding-top: 30px !important;
     padding-left:10px !important;
     padding-right:10px !important;
 }
 
-a{
+.a-tag{
     text-decoration: none;
     color: rgb(4, 17, 255) !important;
 }
 .button{
     white-space: normal !important;
-    padding:20px 38px !important ;
+    padding:10px 28px !important ;
     width:100% !important;
     background-color:#db2828 !important;
 }
 .button-text{
     white-space: normal !important;
     font-weight: 700 !important; 
-    font-size:23px !important;
+    font-size:18px !important;
 }
 .mapdiv path{
     fill:rgb(4, 17, 255) !important;
@@ -133,6 +145,7 @@ padding-right: 15px !important;
         margin-left: 20px !important;
         margin-right: 20px!important;
     }
+   
     .button{
         white-space: normal !important;
         padding:20px 38px !important ;
